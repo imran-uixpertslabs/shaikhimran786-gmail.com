@@ -1,0 +1,7 @@
+{
+  "name": "ProProfile AI",
+  "description": "Transform casual photos into professional LinkedIn studio portraits using Gemini 2.5 Flash Image. Maintain facial integrity while upgrading attire and background.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
